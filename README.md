@@ -5,7 +5,7 @@ The model is created by employing data engineering (e.g. Feature selection : RFE
 
 
 current progress :
-- implementing  algorithms ( SVM , Random Forest , Decision Trees , Naive Bayes  ) 
+- implementing other algorithms ( SVM , Random Forest , Decision Trees , Naive Bayes  ) 
 - performing k Fold cross validation 
 
 
