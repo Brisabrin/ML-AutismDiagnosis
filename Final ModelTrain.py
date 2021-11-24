@@ -322,3 +322,10 @@ for i in dfList:
     f.write("se : {} sd : {}\n ".format(avgse , sdse))
     f.write("sp : {} sd : {} \n".format(avgsp , sdsp))
 
+
+    
+    
+    
+    
+    
+    
