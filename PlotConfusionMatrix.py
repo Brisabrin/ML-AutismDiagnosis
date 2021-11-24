@@ -13,3 +13,9 @@ confusion_matrix_data = [[tp, fn ], [ fp , tn ]]
 
 sns.heatmap(confusion_matrix_data, annot=True, cmap='Blues', fmt='d').get_figure().savefig(file_name) 
 
+
+
+
+
+
+
